@@ -1,6 +1,6 @@
 # ICT-202500032 — Starter Website
 
-**Student:** Kasweka Chuumba  
+**Student:** Kashweka Chuumba  
 **Student number:** 202500032
 
 ## About
